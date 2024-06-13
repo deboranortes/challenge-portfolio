@@ -36,4 +36,4 @@ Este projeto é um portfólio interativo que exibe meus projetos, habilidades e 
 
 ## Projeto
 
-[![Acesse o Projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-Link-green?style=for-the-badge)](https://deboranortes.github.io/challenge-portfolio/)
+[![Acesse o Projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-Link-purple?style=for-the-badge)](https://deboranortes.github.io/challenge-portfolio/)
