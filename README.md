@@ -1,4 +1,4 @@
-# Challenge Portfolio
+# <img src="https://img.shields.io/badge/Challenge_Portfolio-purple?style=for-the-badge&labelColor=blue" alt="Challenge Portfolio" height="50"/>
 
 Bem-vindo ao repositório Challenge Portfolio! Esse repositório contém um desafio proposto pelo programa Oracle Next Education (ONE) T6 em parceria com a Alura. Este projeto foi criado para demonstrar minhas habilidades em desenvolvimento web front-end, incluindo HTML, CSS e JavaScript.
 
