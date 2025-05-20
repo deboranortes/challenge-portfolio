@@ -14,7 +14,7 @@ Bem-vindo ao repositório Challenge Portfolio! Esse repositório contém um desa
 
 ## Sobre
 
-Este projeto é um portfólio interativo que exibe meus projetos, habilidades e informações de contato. O objetivo é fornecer uma visão geral das minhas capacidades como desenvolvedora front-end.
+Este projeto é um portfólio interativo que exibe projetos, habilidades e informações de contato. O objetivo é fornecer uma visão geral das capacidades como desenvolvedora front-end.
 
 ## Funcionalidades
 
